@@ -1,5 +1,3 @@
-Here's a sample README content for your portfolio website on GitHub:
-
 Olanrewaju Shinaayomi Portfolio Website
 
 About
