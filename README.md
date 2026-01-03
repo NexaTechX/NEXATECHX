@@ -21,7 +21,7 @@ A commerce and logistics platform helping vendors sell, automate, and scale acro
 🔗 Demo & Experiments: https://closetrack.vercel.app/  
 
 ### 📝 Formtap.ng
-An easy-to-use **form builder and automation tool** to help businesses collect data and automate workflows.  
+An easy-to-use **form for Business to collect customer feedback and complaint for better business decision making** to help businesses collect data and automate workflows.  
 
 ---
 
@@ -42,7 +42,7 @@ An easy-to-use **form builder and automation tool** to help businesses collect d
 - Custom UI components, responsive design
 
 **Backend / APIs**
-- Node.js, NestJS
+- Node.js, NestJS, Python, FastAPI, Django
 - Serverless functions (Vercel, Netlify)
 - REST APIs & webhook integrations
 
