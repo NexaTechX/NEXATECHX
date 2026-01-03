@@ -1,43 +1,101 @@
-Olanrewaju Shinaayomi Portfolio Website
+# 👋 Hi, I’m Olanrewaju Shinaayomi (NexaTechX)
 
-About
+I’m a **software builder, startup founder, and SaaS enthusiast** focused on building practical products for Africa and emerging markets.
 
-This repository contains the source code for my personal portfolio website, showcasing my skills, experience, and projects.
+I ship **real products fast**, solve real problems, and embrace local constraints to create scalable solutions.
 
-Features
+---
 
-- Responsive design for optimal viewing on various devices
-- HTML5, CSS3, and JavaScript for a dynamic user experience
-- Custom-designed UI components and graphics
+## 🚀 What I’m Building
 
-Technologies Used
+### 🛒 Carryofy
+A commerce and logistics platform helping vendors sell, automate, and scale across Africa.
 
-- Front-end: HTML5, CSS3, JavaScript
-- Form Validation: Formspree
-- Deployment: GitHub Pages
+- Marketplace + vendor tools
+- Automation-first workflow
+- Serverless architecture for scale
+- Cache & database optimizations for fast performance
+- Actively evolving and shipping new features
 
-Getting Started
+🔗 Website: https://carryofy.com  
+🔗 Demo & Experiments: https://closetrack.vercel.app/  
 
-1. Clone the repository: git clone https://github.com/NexaTechX/NEXATECHX.git
-2. Open index.html in your preferred browser
+### 📝 Formtap.ng
+An easy-to-use **form builder and automation tool** to help businesses collect data and automate workflows.  
 
-License
+---
 
-This project is licensed under the MIT License.
+## 🧠 My Strengths
 
-Contact
+- Turning ideas into working MVPs quickly  
+- Building SaaS products that handle real constraints (payments, logistics, adoption)  
+- Designing serverless & scalable systems with caching layers  
+- Automating repetitive tasks for businesses  
+- Experimenting in public and iterating fast  
 
-- Email: nexatechx@gmail.com
-- LinkedIn: https://www.linkedin.com/in/nexatechx-tee-shine-3a046625a/
-- Twitter: https://x.com/NexaTechx
+---
 
+## 🛠️ Tech Stack
 
-View the live website at: https://nexatechx.github.io/NEXATECHX/
+**Frontend**
+- HTML5, CSS3, JavaScript (Vanilla & React/Next.js)
+- Custom UI components, responsive design
 
-Stay Updated
+**Backend / APIs**
+- Node.js, NestJS
+- Serverless functions (Vercel, Netlify)
+- REST APIs & webhook integrations
 
-Watch this repository for updates and new features.
+**Databases**
+- PostgreSQL, MongoDB, mySQL
+- Cache: Redis / in-memory caching
 
-Feel free to customize this template to fit your needs!
+**Automation**
+- n8n
+- Make.com
+- Zapier
 
-Would you like me to add anything specific?
+**My SaaS Products**
+- Formtap: https://formtap.ng
+- Eventer(Demo): https://eventer-mocha-three.vercel.app/
+- CloseTrack(Demo): https://closetrack.vercel.app/
+
+**Deployment / DevOps**
+- GitHub Pages
+- Vercel
+- CI/CD pipelines
+
+**Other**
+- Git & GitHub
+- Automation & workflow tools
+
+---
+
+## 🌍 Why I Build
+
+Africa-first problems require **thinking differently**:  
+- Payment limitations  
+- Logistics challenges  
+- Adoption barriers  
+
+I build **around these constraints**, not in spite of them, to create products that actually work and scale.
+
+---
+
+## 📬 Connect With Me
+
+- **Email:** nexatechx@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/shinaayomiadeoluwa/]  
+- **X (Twitter):** [https://x.com/NexaTechx](https://x.com/NexaTechx)  
+
+---
+
+## 📈 What’s Next
+
+- Ship **Carryofy** to more real users  
+- Improve automation & vendor experience  
+- Optimize serverless & cache systems  
+- Explore funding and accelerator opportunities  
+- Collaborate with builders, founders, and early supporters  
+
+⭐ Star repos, follow my journey, or reach out if you want to build something together.
