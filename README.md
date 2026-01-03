@@ -86,7 +86,7 @@ I build **around these constraints**, not in spite of them, to create products t
 
 - **Email:** nexatechx@gmail.com  
 - **LinkedIn:** [https://www.linkedin.com/in/shinaayomiadeoluwa/]  
-- **X (Twitter):** [https://x.com/NexaTechx](https://x.com/NexaTechx)  
+- **X (Twitter):** [https://x.com/teeshine25](https://x.com/teeshine25)  
 
 ---
 
